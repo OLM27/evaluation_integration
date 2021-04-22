@@ -112,20 +112,16 @@ footer {
 
 /*Graphiques*/
 
-.project-one {
+.projects-one {
     background:white ;
     
-    margin: 2em;
+    padding: 2em;
 }
 
 .projet-two {
     background: #EDF6F5;
 
     padding: 2em;
-}
-
-.project-three {
-    margin:2em;
 }
 
 
