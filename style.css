@@ -1,0 +1,174 @@
+            /**Html / Body / p**/
+
+html {
+    font-family: 'Lato';
+}
+
+body {
+    margin: 0px;
+}
+P {
+    color: #444444;
+}
+
+footer {
+    margin: 3em;
+}
+         
+            /**Header**/
+
+/*Bannière*/
+
+.site-header {
+    padding: 1em;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    max-width: 50em;
+    min-width: 10em;
+}
+
+.burger {
+    max-width: 1.25em;
+}
+
+            /**Main**/
+
+/*Call to action*/
+
+.site-start {
+    padding-top: 1em;
+    text-align: center;
+}
+
+.site-button {
+    border-radius: 5em;
+    border: none;
+    padding: 1em 1.75em;
+
+    background: #0AA8A7;
+
+    font-family: 'Lato';
+    color: white;
+}
+
+.site-first {
+    padding-top: 2em;
+
+    width: 100%;
+}
+
+/*Abilities*/
+
+.site-background {
+    background: #EDF6F5;
+    color: #222222;
+
+    text-align: center;
+
+    padding-bottom: 2em;
+}
+
+.site-title {
+    padding-top: 2em;
+    
+}
+
+.site-one {
+    border-radius: 10px;
+    background: white;
+
+    margin: 1em;
+    padding: 1em;
+}
+
+.site-two {
+    border-radius: 10px;
+    background: white;
+
+    margin: 1em;
+    padding: 1em;
+}
+
+.site-three {
+    border-radius: 10px;
+    background: white;
+
+    margin: 1em;
+    padding: 1em;
+}
+
+.site-four {
+    border-radius: 10px;
+    background: white;
+
+    margin: 1em;
+    padding: 1em;
+}
+
+/*Graphiques*/
+
+.project-one {
+    background:white ;
+    
+    margin: 2em;
+}
+
+.projet-two {
+    background: #EDF6F5;
+
+    padding: 2em;
+}
+
+.project-three {
+    margin:2em;
+}
+
+
+.icones {
+    color: #0AA8A7;
+
+    width: 40px;
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
+/*Call-to-action 2*/
+
+.site-brand {
+    background: #EDF6F5;
+    margin: 2em;
+    padding: 1em;
+    border-radius: 15px;
+
+
+    text-align: center;
+}
+
+.site-it {
+    color: #0AA8A7;
+}
+
+
+.pictures {
+    width: 100%;
+}
+
+            /**Footer**/
+
+.site-end {
+    display:grid;
+    grid-template-columns: repeat(2,1fr)
+
+}
+
+.social-media {
+    width: 1.5em;
+
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
+
